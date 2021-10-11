@@ -1,5 +1,5 @@
 # **Jungle Soldier**
-Jungle Soldier es un proyecto academico realizado por estudiantes de Ingenieria Electronica y Telecomunicaciones de la universidad del Cauca aplicando los conocimientos impartidos en clase sobre POO(Programacion Orientada a Objetos)
+Jungle Soldier es un proyecto academico realizado por estudiantes de Ingenieria Electronica y Telecomunicaciones de la universidad del Cauca aplicando los conocimientos impartidos en clase sobre POO (Programacion Orientada a Objetos)
 
 **Motor** 
 
